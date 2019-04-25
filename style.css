@@ -1,0 +1,16 @@
+#sample {
+    margin: 100px;
+    border: 1px solid gray;
+}
+
+.chip {
+    background-color: gainsboro;
+    border-radius: 5px;
+    margin: 0px 5px;
+    font-size: 13px;
+    padding: 3px;
+}
+
+/* .cke_button__chip {
+    display: none !important;
+} */
